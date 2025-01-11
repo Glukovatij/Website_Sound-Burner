@@ -137,6 +137,13 @@ main .section .img-block p{
 	font-size: 14px;
 	font-weight: lighter;
 }
+main .section .img-block .button_play{
+	width: 80px;
+	height: 80px;
+	position: relative;
+	top: -95px;
+	left: 230px;
+}
 /* Футер */
 footer{
 	float: left;
